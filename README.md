@@ -49,3 +49,4 @@ Observability in a service mesh refers to the ability to monitor, trace, and ana
 A service mesh operates at the layer of service-to-service communication within a cluster, providing features like traffic management, security, and observability. In contrast, an ingress controller manages external access to services within the cluster, typically handling tasks like load balancing, SSL termination, and routing based on HTTP/HTTPS requests.
 
 
+# istio-lab
